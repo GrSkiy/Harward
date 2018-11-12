@@ -1,3 +1,16 @@
-.first-one {
-  height: 50px
+.first-one ul{
+  height: 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: #30393a;
+  width: 100%;
+  font-family:'Merriweather Sans', sans-serif;
+  font-size: 14px;
+}
+
+.first-one ul li {
+  padding: 12px 20px;
+  color: white;
+
 }
